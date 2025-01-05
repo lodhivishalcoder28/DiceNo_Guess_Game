@@ -1,3 +1,12 @@
+# Dice number Guess Game 
+### Select a no. from the list and roll the dice, if the random no. from the dice matches yours selected no. you get points equal to selected no. and if not then you get points -2. 
+
+### This is non-Responsive, currently working on its responsiveness. 
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
