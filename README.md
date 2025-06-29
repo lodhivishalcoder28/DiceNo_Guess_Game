@@ -3,6 +3,9 @@
 
 ### This is non-Responsive, currently working on its responsiveness. 
 
+## Link of Deployed version
+# diceguessgame.vercel.app
+
 
 
 
